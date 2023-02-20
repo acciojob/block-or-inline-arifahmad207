@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+    <style>
+      .block {
+        display: block;
+        background-color: lightgray;
+        margin-bottom: 10px;
+      }
+      .inline {
+        display: inline-block;
+        background-color: lightgray;
+        margin-right: 10px;
+      }
+    </style>
